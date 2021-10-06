@@ -5,6 +5,10 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-regular-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
     "element-react": "^1.4.34",
     "element-theme-default": "^1.4.13",
     "gatsby": "^3.13.1",
@@ -22,6 +26,7 @@
     "react-hot-loader": "^4.13.0"
   },
   "devDependencies": {
+    "element-theme-dark": "^1.0.3",
     "prettier": "2.4.1"
   },
   "keywords": [

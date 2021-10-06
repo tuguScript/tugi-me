@@ -4,8 +4,9 @@ import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import { Button } from 'element-react';
-import 'element-theme-default';
+import { Button } from "element-react"
+import "element-theme-dark"
+// import 'element-theme-default';
 
 const IndexPage = () => (
   <Layout>
